@@ -46,6 +46,7 @@ dependencies {
     compile("net.minidev:json-smart:1.1.1")
     compile("commons-lang:commons-lang:2.3")
     compile("com.sun.jersey:jersey-bundle:1.10-b01");
+	compile("xml-apis:xml-apis:1.0.b2");
     testCompile("org.springframework.boot:spring-boot-starter-test") 
 }
 
